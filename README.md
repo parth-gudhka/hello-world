@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-First repo
+First test repository.
+This is the first README file being made.
